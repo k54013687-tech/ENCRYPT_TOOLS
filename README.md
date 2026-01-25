@@ -38,7 +38,7 @@ pkg install python3
 git clone https://github.com/k54013687-tech/ENCRYPT_TOOLS
 ```
 ```
-cd ENCRYPT_TOOLZ
+cd ENCRYPT_TOOLS
 ```
 ```
 python tool_enc.py
