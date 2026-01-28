@@ -41,7 +41,9 @@ Encrypt Tools adalah aplikasi berbasis CLI (terminal) yang menyediakan beberapa 
 
 
 ### Installation
-
+```
+termux-setup-storage
+```
 ```
 pkg update && pkg upgrade -y
 ```
@@ -52,13 +54,13 @@ pkg install git -y
 pkg install python3
 ```
 ```
-git clone https://github.com/k54013687-tech/NIK-VALIDATE
+git clone https://github.com/k54013687-tech/ENCRYPT_TOOLS
 ```
 ```
-cd NIK-VALIDATE
+cd ENCRYPT_TOOLS
 ```
 ```
-python juned_gtg.py
+python encode.py
 ```
 ### ©️ Copyright
 Copyright © 2025 by [Juned](https://github.com/k54013687-tech)
